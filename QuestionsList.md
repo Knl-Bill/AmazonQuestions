@@ -1,0 +1,14 @@
+- https://www.geeksforgeeks.org/dsa/k-largestor-smallest-elements-in-an-array/
+- https://www.geeksforgeeks.org/find-pythagorean-triplet-in-an-unsorted-array
+- https://www.geeksforgeeks.org/data-structure-gq/tree-traversals-gq
+- https://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-4
+- https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1
+- https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure
+- https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size
+- https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists
+- https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees
+- https://www.geeksforgeeks.org/the-stock-span-problem
+- https://www.geeksforgeeks.org/next-greater-element
+- https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent
+- https://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance
+- https://www.geeksforgeeks.org/dynamic-programming-set-34-assembly-line-scheduling
